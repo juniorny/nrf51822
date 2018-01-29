@@ -1,2 +1,2 @@
 # nrf51822
-iap: serial_bootloader
+IAP: serial_bootloader
