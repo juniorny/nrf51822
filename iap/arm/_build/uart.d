@@ -1,0 +1,16 @@
+.\_build\uart.o: ..\user\uart.c
+.\_build\uart.o: ..\user\uart.h
+.\_build\uart.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\_build\uart.o: ..\..\..\..\Include\simple_uart.h
+.\_build\uart.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\_build\uart.o: ..\..\..\..\Include\nrf.h
+.\_build\uart.o: ..\..\..\..\Include\nrf51.h
+.\_build\uart.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm0.h
+.\_build\uart.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h
+.\_build\uart.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h
+.\_build\uart.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h
+.\_build\uart.o: ..\..\..\..\Include\system_nrf51.h
+.\_build\uart.o: ..\..\..\..\Include\nrf51_bitfields.h
+.\_build\uart.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm0.h
+.\_build\uart.o: ..\..\..\..\Include\nrf51_deprecated.h
+.\_build\uart.o: ..\..\..\..\Include\compiler_abstraction.h

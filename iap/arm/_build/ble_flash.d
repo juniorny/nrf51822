@@ -1,0 +1,12 @@
+.\_build\ble_flash.o: ..\..\..\..\Source\ble\ble_flash.c
+.\_build\ble_flash.o: ..\..\..\..\Include\ble\ble_flash.h
+.\_build\ble_flash.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\_build\ble_flash.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\_build\ble_flash.o: ..\..\..\..\Include\nrf51.h
+.\_build\ble_flash.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm0.h
+.\_build\ble_flash.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h
+.\_build\ble_flash.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h
+.\_build\ble_flash.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h
+.\_build\ble_flash.o: ..\..\..\..\Include\system_nrf51.h
+.\_build\ble_flash.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\_build\ble_flash.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
